@@ -8,7 +8,7 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="relative min-h-screen flex flex-col md:flex-row items-center justify-center bg-gradient-to-br from-blue-50 via-green-50 to-white px-6 md:px-16 overflow-hidden"
+      className="relative min-h-screen flex flex-col md:flex-row items-center justify-center bg-gradient-to-br from-blue-50 via-green-50 to-white px-6 py-20 md:px-16 overflow-hidden"
     >
       {/* 🔹 Heartbeat Background */}
       <div className="absolute inset-0 opacity-10">
